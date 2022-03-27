@@ -1,0 +1,22 @@
+{
+    "name": "Unity2Foundry.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2c82384f6c5d18c4781a2fac4763e41c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6546d7765b4165b40850b3667f981c26",
+        "GUID:9e04c6f1d83f64c85a18cbf2fcccc31c",
+        "GUID:6dabb935c7238c14e81ccd65fa6d56c6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
