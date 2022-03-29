@@ -33,3 +33,4 @@ Free assets visible in above screenshots, these are not included for legal reaso
 - [Metallic Barrels](https://assetstore.unity.com/packages/3d/props/industrial/metallic-barrels-87026)
 - [Office Room Furniture](https://assetstore.unity.com/packages/3d/props/furniture/office-room-furniture-70884)
 - [Sci-fi Crate](https://assetstore.unity.com/packages/3d/props/sci-fi-crate-70278)
+- Character icons were created in [StarTrek Online](https://store.steampowered.com/app/9900/Star_Trek_Online/).
