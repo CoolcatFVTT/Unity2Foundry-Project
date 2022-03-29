@@ -16,6 +16,8 @@ Some screenshots of FoundryVTT scenes made for the [StarTrek Adventures](https:/
   - All assets were build using ProBuilder within Unity, so they can be easily modified as needed.
   - Example scene with basic HDRP effects setup (shadows, ambient occlusion, anti-alias, etc.)
 
+![Image](https://raw.githubusercontent.com/wiki/CoolcatFVTT/Unity2Foundry-Project/images/unity2foundry-example.webp)
+
 # Credits
 Some code/assets by others are included for convenience: 
 - [Unity.WebP](https://github.com/netpyoung/unity.webp) by Eunpyoung Kim ([MIT License](https://opensource.org/licenses/MIT))
