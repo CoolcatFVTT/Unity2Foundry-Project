@@ -9,7 +9,7 @@ Some screenshots of FoundryVTT scenes made for the [StarTrek Adventures](https:/
 - Using **Unity 2022.1.0b13 BETA**.
 - **Exporter script**: Put it on a Camera in your scene and it will render the image in your desired resolution and save it in WebP format. This will also export walls in the JSON format needed for FoundryVTT or patch them into an existing JSON scene.
 - **Wall script**: Used to setup meta-data needed for walls, doors, windows, etc. If you use a [prefab-based](https://docs.unity3d.com/Manual/Prefabs.html) construction-kit that has this already setup, you get pixel-perfectly projected wall-data for your maps almost for free.
-- **Door script**: Allows you to quickly open/close doors within Unity. Note that this currently doesn't connect to above wall-data.
+- **Door script**: Allows you to quickly open/close doors within Unity and also helps putting labels on them. Note that this currently doesn't connect to above wall-data.
 - **Some example assets**:
   - Prefab construction-kit for corridors, rooms, doors and windows as well as some maintenance crawl spaces. These include the meta-data needed for wall-data export. That means you can just use Unity's grid system (and Ctrl+D to duplicate) to quickly setup any layout.
   - Some StarTrek-style consoles, display textures can be easily switched.
