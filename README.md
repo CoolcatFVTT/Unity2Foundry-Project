@@ -18,11 +18,11 @@ Some screenshots of FoundryVTT scenes made for the [StarTrek Adventures](https:/
 
 # Credits
 Some code/assets by others are included for convenience: 
-- [Unity.WebP](https://github.com/netpyoung/unity.webp) by Eunpyoung Kim (MIT License)
-- [SimpleJSON](https://github.com/Bunny83/SimpleJSON) by Markus Göbel (MIT License)
+- [Unity.WebP](https://github.com/netpyoung/unity.webp) by Eunpyoung Kim ([MIT License](https://opensource.org/licenses/MIT))
+- [SimpleJSON](https://github.com/Bunny83/SimpleJSON) by Markus Göbel ([MIT License](https://opensource.org/licenses/MIT))
 - Textures
-  - [Seamless Concrete 48](https://www.sharetextures.com/textures/concrete/seamless_concrete_48/) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/) License)
-  - [Metal Walkway 010](https://ambientcg.com/a/MetalWalkway010) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/) License)
+  - [Seamless Concrete 48](https://www.sharetextures.com/textures/concrete/seamless_concrete_48/) ([CC0 License](https://creativecommons.org/publicdomain/zero/1.0/))
+  - [Metal Walkway 010](https://ambientcg.com/a/MetalWalkway010) ([CC0 License](https://creativecommons.org/publicdomain/zero/1.0/))
 - Various Unity standard assets
 
 Free assets visible in above screenshots, these are not included for legal reasons:
