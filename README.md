@@ -5,6 +5,9 @@ Some screenshots of FoundryVTT scenes made for the [StarTrek Adventures](https:/
 ![Image](https://raw.githubusercontent.com/wiki/CoolcatFVTT/Unity2Foundry-Project/images/sta-angstrom-ops.webp)
 ![Image](https://raw.githubusercontent.com/wiki/CoolcatFVTT/Unity2Foundry-Project/images/sta-angstrom-quarters.webp)
 
+# Documentation
+Some limited documentation can be found [in the Wiki](https://github.com/CoolcatFVTT/Unity2Foundry-Project/wiki). 
+
 # Features
 - Using **Unity 2022.1.0b13 BETA**.
 - **Exporter script**: Put it on a Camera in your scene and it will render the image in your desired resolution and save it in WebP format. This will also export walls in the JSON format needed for FoundryVTT or patch them into an existing JSON scene.
