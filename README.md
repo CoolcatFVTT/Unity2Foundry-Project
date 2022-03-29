@@ -11,7 +11,7 @@ Some screenshots of FoundryVTT scenes made for the [StarTrek Adventures](https:/
 - **Wall script**: Used to setup meta-data needed for walls, doors, windows, etc. If you use a [prefab-based](https://docs.unity3d.com/Manual/Prefabs.html) construction-kit that has this already setup, you get pixel-perfectly projected wall-data for your maps almost for free.
 - **Door script**: Allows you to quickly open/close doors within Unity. Note that this currently doesn't connect to above wall-data.
 - **Some example assets**:
-  - Prefab construction-kit for coridors, rooms, doors and windows as well as some maintenance tunnels. These include the meta-data needed for wall-data export. That means you can just use Unity's grid system (and Ctrl+D to duplicate) to quickly setup any layout.
+  - Prefab construction-kit for corridors, rooms, doors and windows as well as some maintenance crawl spaces. These include the meta-data needed for wall-data export. That means you can just use Unity's grid system (and Ctrl+D to duplicate) to quickly setup any layout.
   - Some StarTrek-style consoles, display textures can be easily switched.
   - All assets were build using ProBuilder within Unity, so they can be easily modified as needed.
   - Example scene with basic HDRP effects setup (shadows, ambient occlusion, anti-alias, etc.)
@@ -24,3 +24,12 @@ Some code/assets by others are included for convenience:
   - [Seamless Concrete 48](https://www.sharetextures.com/textures/concrete/seamless_concrete_48/) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/) License)
   - [Metal Walkway 010](https://ambientcg.com/a/MetalWalkway010) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/) License)
 - Various Unity standard assets
+
+Free assets visible in above screenshots, these are not included for legal reasons:
+- [FREE - BURN MARK TEXTURES VOL. 1](https://www.actionvfx.com/collections/free-burn-mark-textures-vol-1-stock-footage)
+- [Free Rug Pack](https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178)
+- [HDRP Furniture Pack](https://assetstore.unity.com/packages/3d/props/furniture/hdrp-furniture-pack-153946)
+- [Martian surface - rocky area](https://assetstore.unity.com/packages/3d/environments/sci-fi/martian-surface-rocky-area-186736)
+- [Metallic Barrels](https://assetstore.unity.com/packages/3d/props/industrial/metallic-barrels-87026)
+- [Office Room Furniture](https://assetstore.unity.com/packages/3d/props/furniture/office-room-furniture-70884)
+- [Sci-fi Crate](https://assetstore.unity.com/packages/3d/props/sci-fi-crate-70278)
